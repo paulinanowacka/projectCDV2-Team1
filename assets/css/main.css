@@ -69,7 +69,6 @@ input, select, textarea {
 	-moz-appearance: none;
 	-webkit-appearance: none;
 	-ms-appearance: none;
-	appearance: none;
 }
 
 /* Basic */
@@ -2173,16 +2172,19 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/pic01.jpg");
+		background: #CCE8F4 url(https://previews.123rf.com/images/zaclurs/zaclurs1609/zaclurs160900006/65213984-aged-vintage-silver-forks-border-isolated-on-white-background-fork-background-.jpg);
 		background-position: center center;
-		background-size: auto 100%;
-		background-repeat: no-repeat;
+		background-size: auto 120%;
 		text-align: center;
 		position: relative;
 		padding: 8em 0;
 		margin: 4em 0 0 0;
 	}
 
+.whothefork {
+	font-size: 20px;
+	color: black;
+}
 		#banner header {
 			background-color: rgba(34, 30, 31, 0.98);
 			display: inline-block;
