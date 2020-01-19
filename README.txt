@@ -1,3 +1,5 @@
+1. Zmiana kolorów 2. Dodanie przykładowej treści 3. Zmiana grafik (powinny być w folderze assets) 4. Dodanie formularza kontaktowego
+
 Dopetrope by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
